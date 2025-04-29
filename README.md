@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate Data Scientist from Chile, with solid knowledge in data analysis, statistical modeling, and reporting. Experience in developing predictive models, time series, and spatial statistics, along with a growing interest in machine learning and AI.</h3>
 
-- 🌱 I’m currently learning **GCP, SQL, Time Series and Bayesian Statistics**
-
 - 📊 I specialize in R, Python, and SQL for data science
 
 - 🎓 I studied statistics at the Pontifical Catholic University of Chile.
