@@ -5,8 +5,6 @@
 
 - 🎓 I studied statistics at the Pontifical Catholic University of Chile
 
-- 👨‍💻 All of my projects are available at [https://github.com/Franciscofn123](https://github.com/Franciscofn123)
-
 - 📫 How to reach me **francisco.fernandezffn3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
