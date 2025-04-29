@@ -3,7 +3,7 @@
 
 - 📊 I specialize in R, Python, and SQL for data science
 
-- 🎓 I studied statistics at the Pontifical Catholic University of Chile.
+- 🎓 I studied statistics at the Pontifical Catholic University of Chile
 
 - 👨‍💻 All of my projects are available at [https://github.com/Franciscofn123](https://github.com/Franciscofn123)
 
