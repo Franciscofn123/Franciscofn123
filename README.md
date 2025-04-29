@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate Data Scientist from Chile, with solid knowledge in data analysis, statistical modeling, and reporting. Experience in developing predictive models, time series, and spatial statistics, along with a growing interest in machine learning and AI.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscofn123" alt="franciscofn123" /></a> </p>
-
 - 🌱 I’m currently learning **GCP, SQL, Time Series and Bayesian Statistics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Franciscofn123](https://github.com/Franciscofn123)
